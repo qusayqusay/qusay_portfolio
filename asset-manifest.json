@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/qusay_Portfolio/static/css/main.afcc3baa.css",
+    "main.js": "/qusay_Portfolio/static/js/main.1c70b936.js",
+    "static/media/image1.png": "/qusay_Portfolio/static/media/image1.369da8adf24ba4448ae6.png",
+    "static/media/cv1.pdf": "/qusay_Portfolio/static/media/cv1.ece3c4625903d651c094.pdf",
+    "static/media/img2.png": "/qusay_Portfolio/static/media/img2.e56f7fad3408540608d2.png",
+    "static/media/me.png": "/qusay_Portfolio/static/media/me.b8d6d087005ffe841af3.png",
+    "static/media/about_me2.jpeg": "/qusay_Portfolio/static/media/about_me2.2c69d4cee6568d11e3fc.jpeg",
+    "static/media/img3.jpg": "/qusay_Portfolio/static/media/img3.e51478c76a6062369c82.jpg",
+    "static/media/img4.jpg": "/qusay_Portfolio/static/media/img4.be38fce940b6c50a07d9.jpg",
+    "static/media/img5.jpg": "/qusay_Portfolio/static/media/img5.249e9d22a1401c797602.jpg",
+    "static/media/img6.jpg": "/qusay_Portfolio/static/media/img6.3d59870c95ea58f30018.jpg",
+    "index.html": "/qusay_Portfolio/index.html",
+    "main.afcc3baa.css.map": "/qusay_Portfolio/static/css/main.afcc3baa.css.map",
+    "main.1c70b936.js.map": "/qusay_Portfolio/static/js/main.1c70b936.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.afcc3baa.css",
+    "static/js/main.1c70b936.js"
+  ]
+}
